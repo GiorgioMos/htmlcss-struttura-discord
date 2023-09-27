@@ -110,3 +110,39 @@ h1{
 .third{
     padding-bottom: 80px;
 }
+.lastcontainer{
+    display: flex;
+    background-color: #e5e5e5;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.lastboxtitle{
+    text-align: center;
+    padding: 20px 0;
+}
+.textL{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    padding-top: 20px;
+}
+.stars{
+    background-image: url(stars.png);
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 35px 40px
+}
+.mac{
+    text-align: center;
+    background-color: rgb(83, 137, 219);
+    color: white;
+}
+h3{
+    color: #758de2;
+}
+.Fbox{
+    display: flex;
+    align-items: center;
+}
